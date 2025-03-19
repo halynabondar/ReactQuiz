@@ -25,6 +25,6 @@ A simple project built as part of a Udemy course to practice React.
    npm run dev
    ```
 
-## Screenshots
+## Screenshot
 
 ![screenshot.png](src/assets/screenshot.png)
