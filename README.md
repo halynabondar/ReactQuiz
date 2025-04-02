@@ -3,6 +3,11 @@
 A simple project built as part of a Udemy course to practice React.
 
 ## 🚀 Features
+- Randomized answer order.
+- Timer for each question.
+- Skip question functionality.
+- Summary with correct, wrong, and skipped answers.
+- Dynamic progress bar.
 
 ## 🛠️ Technologies Used
 
