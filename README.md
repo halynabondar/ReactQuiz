@@ -11,8 +11,10 @@ A simple project built as part of a Udemy course to practice React.
 
 ## 🛠️ Technologies Used
 
-- React
-- Vite
+- React.js
+- Hooks (useState, useEffect, useRef, useCallback)
+- JavaScript
+- CSS
 
 ## Usage
 
